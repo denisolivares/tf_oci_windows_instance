@@ -40,7 +40,7 @@ variable "instance_image_ocid" {
     us-ashburn-1   = "ocid1.image.oc1.iad.aaaaaaaaxgzzrdoge7zxrjtmjqjhicaxsujljvaju3mbwryo5x5k5axlmsza"
     uk-london-1    = "ocid1.image.oc1.uk-london-1.aaaaaaaaedntd3p6jed5d2p7gsohfu6x3k67s364amtzb5vwfzrvfzt2rrlq"
     us-phoenix-1   = "ocid1.image.oc1.phx.aaaaaaaaskz7sq3mlmiwazehuqzoxdq4xz7sinrwn5m6kedxz3td2c7it2vq"
-    sa-saopaulo-1  = "ocid1.image.oc1.sa-saopaulo-1.aaaaaaaaywgvvgiguphkxanvuydiinda3hrcygtr6c7gaw7cr4t4d3jxhbdq"
+    sa-saopaulo-1  = "ocid1.image.oc1.sa-saopaulo-1.aaaaaaaackqe7r4zy7wurd54p52y5dtw4yx77rzdtujoy43hgrx45m5xjxva"
   }
 }
 
